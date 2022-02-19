@@ -1,0 +1,23 @@
+        header {
+            background-color: rgba(57, 57, 136, 0.945);
+            display: flex;
+            justify-content: space-around;
+        }
+        
+        .fbk {
+            color: rgb(217, 220, 245);
+        }
+        
+        .iii {
+            display: flex;
+            padding-top: 10px;
+        }
+        
+        body {
+            background-color: rgb(217, 227, 250);
+        }
+        
+        .pi {
+            display: flex;
+            justify-content: space-around;
+        }
